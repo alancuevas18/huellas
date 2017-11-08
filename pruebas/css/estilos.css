@@ -1,0 +1,11 @@
+.img-ico {
+	height: 25px;
+	width: 25px;
+}
+.navbar-brand {
+	transition: all ease 0.3s;
+}
+.navbar-brand:hover {
+	background-color: #032f59;
+	text-decoration: underline;
+}
