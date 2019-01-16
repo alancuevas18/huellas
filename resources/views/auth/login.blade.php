@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+<!-- probando el comit -->
 @section('content')
 <div class="container">
     <div class="row">
